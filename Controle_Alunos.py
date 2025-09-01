@@ -1,4 +1,3 @@
-    estrutura 
 
 {
 nome = "Isabelly"
